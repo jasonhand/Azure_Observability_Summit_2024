@@ -26,10 +26,10 @@ Companion material and resources for the "Azure Observability Summit" webinar on
 - [Open Telemetry](https://www.datadoghq.com/solutions/opentelemetry/)
 
 ### Upcoming Events
-- [].NET Conf 2024](https://www.dotnetconf.net/)
+- [.NET Conf 2024](https://www.dotnetconf.net/)
 
 ### Other
 - [Videos about Semantic Kernel](https://aka.ms/LetsLearnDotNet/Playlist)
 
 ### Slides
-... coming
+- [Slides in PDF](slides/AzureSummitSeptember2024.pdf)
