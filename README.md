@@ -19,17 +19,17 @@ Companion material and resources for the "Azure Observability Summit" webinar on
   
 ### Code
 - [LLM Observability Jupyter Notebooks on GitHub](https://github.com/DataDog/llm-observability)
-- GitHub with all the code: https://aka.ms/blazorAIOTel
+- [Blazor Demo code](https://aka.ms/blazorAIOTel)
 
 ### Product
-- LLM Observability - Product
+- [LLM Observability](https://www.datadoghq.com/product/llm-observability/)
 - [Open Telemetry](https://www.datadoghq.com/solutions/opentelemetry/)
 
 ### Upcoming Events
-- https://www.dotnetconf.net/
+- [].NET Conf 2024](https://www.dotnetconf.net/)
 
 ### Other
-- Videos about Semantic Kernel https://aka.ms/LetsLearnDotNet/Playlist
+- [Videos about Semantic Kernel](https://aka.ms/LetsLearnDotNet/Playlist)
 
 ### Slides
 ... coming
