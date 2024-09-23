@@ -1,27 +1,29 @@
 # Azure Observability Summit 2024
 Companion material and resources for the "Azure Observability Summit" webinar on September 24th, 2024
 
+![slides](images/slides.png)
+
 ## Resources
 
 ### Docs
-- Open Telemetry in Datadog - Docs
-- OTLP Ingestion by the Datadog Agent - Docs
-- Set up LLM Observability - Docs 
-- LLM Observability API Reference - Docs
+- [Open Telemetry in Datadog](https://docs.datadoghq.com/opentelemetry/)
+- [OTLP Ingestion by the Datadog Agent](https://docs.datadoghq.com/opentelemetry/interoperability/otlp_ingest_in_the_agent/?tab=host)
+- [Set up LLM Observability](https://docs.datadoghq.com/llm_observability/setup/?tab=decorators)
+- [LLM Observability API Reference](https://docs.datadoghq.com/llm_observability/setup/api/?tab=model)
 
 ### Blogs
-- https://www.datadoghq.com/blog/datadog-agent-with-otel-collector/ - Blog
-- https://www.datadoghq.com/blog/agent-otlp-log-ingestion/ - Blog
-- https://www.datadoghq.com/blog/monitor-azure-openai-with-datadog/ - Blog
-- https://www.datadoghq.com/blog/anthropic-integration-datadog-llm-observability/ - Blog
+- [Unify your OpenTelemetry and Datadog experience with the embedded OTel Collector in the Agent](https://www.datadoghq.com/blog/datadog-agent-with-otel-collector/)
+- [Ingest OpenTelemetry logs with the Datadog Agent](https://www.datadoghq.com/blog/agent-otlp-log-ingestion/)
+- [Monitor Azure OpenAI with Datadog](https://www.datadoghq.com/blog/monitor-azure-openai-with-datadog/)
+- [Monitor your Anthropic applications with Datadog LLM Observability](https://www.datadoghq.com/blog/anthropic-integration-datadog-llm-observability/)
   
 ### Code
-- LLM Observability Jupyter Notebooks - GitHub
+- [LLM Observability Jupyter Notebooks on GitHub](https://github.com/DataDog/llm-observability)
 - GitHub with all the code: https://aka.ms/blazorAIOTel
 
 ### Product
 - LLM Observability - Product
-- Open Telemetry - Product
+- [Open Telemetry](https://www.datadoghq.com/solutions/opentelemetry/)
 
 ### Upcoming Events
 - https://www.dotnetconf.net/
