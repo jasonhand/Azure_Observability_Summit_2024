@@ -30,6 +30,12 @@ Companion material and resources for the "Azure Observability Summit" webinar on
 
 ### Other
 - [Videos about Semantic Kernel](https://aka.ms/LetsLearnDotNet/Playlist)
+- [.NET Learning Resources](aka.ms/letslearn/dotnet/aspire)
+- [.NET Aspire Documentation](aka.ms/dotnet-aspire)
+- [Semantic Kernel SDK Challenge](aka.ms/letslearn/dotnet/SK/csc)
+- [.NET Aspire Videos](aka.ms/aspire/videos)
+- [Engage with the team on GitHub](github.com/dotnet/aspire)
+- [Let's Learn .NET Videos](aka.ms/letslearndotnet/playlist)
 
 ### Slides
 - [Slides in PDF](slides/AzureSummitSeptember2024.pdf)
