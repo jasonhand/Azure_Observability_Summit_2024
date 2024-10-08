@@ -3,6 +3,8 @@ Companion material and resources for the "Azure Observability Summit" webinar on
 
 ![slides](images/slides.png)
 
+[Watch on YouTube](https://www.youtube.com/watch?v=W8ShFoa7ALY)
+
 ## Resources
 
 ### Docs
